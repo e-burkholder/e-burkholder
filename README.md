@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
-<h3 align="center">An eager computer science freshman looking to learn more skills!</h3>
+<h3 align="center">An eager computer science student looking to learn more skills!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-burkholder&label=Profile%20views&color=0e75b6&style=flat" alt="e-burkholder" /> </p>
 
